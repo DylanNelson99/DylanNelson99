@@ -23,7 +23,7 @@
 <p align="left">
 <li><a href="https://www.linkedin.com/in/dylan-nelson-076841159/" target="_blank"><i class="fa fa-linkedin"></i>Linkedin</a></li>
 <li><a href="mailto:dylannelson919@gmail.com" target="_blank"><i class="fa fa-google"></i>Email</a></li>
-
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
