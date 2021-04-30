@@ -20,7 +20,7 @@
 - ⚡ Fun fact **Im a great Team player**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/dylan-nelson-076841159/">LinkedIn</a>
+<li><a href="https://www.linkedin.com/in/dylan-nelson-076841159/" target="_blank"><i class="fa fa-linkedin"></i>Linkedin</a></li>
 
 
 <h3 align="left">Languages and Tools:</h3>
