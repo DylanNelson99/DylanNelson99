@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A passionate Student looking for jobs in CyberSecurity and Software Development</h3>
   <p>
-  <img height="left" src="https://github-readme-stats.vercel.app/api?username=DylanNelson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DylanNelson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanNelson99&show_icons=true&theme=default&locale=en&layout=compact" alt="Dylan Nelson" />
 </p>
 
