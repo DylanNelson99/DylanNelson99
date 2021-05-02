@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Student looking for jobs in CyberSecurity and Software Development</h3>
   <p>
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=DylanNelson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanNelson99&show_icons=true&theme=default&locale=en&layout=compact" alt="Dylan Nelson" />
+<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanNelson99&show_icons=true&theme=default&locale=en&layout=compact" alt="Dylan Nelson" />
 </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylannelson99" alt="dylannelson99" /></a> </p> -->
