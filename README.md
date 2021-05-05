@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dylannelson99&label=Profile%20views&color=0e75b6&style=flat" alt="dylannelson99" /> </p>
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A passionate Student looking for jobs in CyberSecurity and Software Development</h3>
   <p>
