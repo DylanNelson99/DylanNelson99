@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dylannelson919@gmail.com**
 
-- 📄 Know about my experiences [https://dylannelson99.github.io/](https://dylannelson99.github.io/)
+- 📄 Know about my experiences [Online CV Website](https://dylannelson99.github.io/)
 
 - ⚡ Fun fact **Im a great Team player**
 
