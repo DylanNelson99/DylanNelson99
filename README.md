@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Rust / React-Native / Android**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DylanNelson99](https://github.com/DylanNelson99)
+- 👨‍💻 All of my projects are available at [https://github.com/DylanNelson99](https://github.com/DylanNelson99?tab=repositories)
 
 - 💬 Ask me about **Android Development / Web Development**
 
