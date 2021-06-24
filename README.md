@@ -1,6 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylannelson99&label=Profile%20views&color=0e75b6&style=flat" alt="dylannelson99" /> </p>
 <h1 align="center">Hi 👋, I'm Dylan Nelson</h1>
-<h3 align="center">Hi my name is Dylan Nelson, I am currently a fourth year student studying a BSc(Hons) in Computer Science with Software Development at Technological University Dublin.</h3> <h3 align="center"> I'm a young and enthusiastic person seeking for the right opportunity to bring my skills and knowledge I have learned in college and in my Industry Experiences and bring them into the any work environment. </h3> <h3 align="center">I would love to work in any field based around Software Development or CyberSecurity area's.</h3>
+<h3 align="center">Hi my name is Dylan Nelson, I am currently an IT Graduate working in EirGrid. At EirGrid, we develop and operate the national electricity grid, so that everyone has power when and where they need it. 
+					We are responsible for a safe, secure and reliable supply of electricity: now, and in the future. To do this, we forecast when and where electricity is needed across Ireland: hour-to-hour, day-to-day, and year-to-year. We work to 
+					ensure there is enough electricity for industry to prosper, and for employment to grow.As a graduate I work with multiple teams in the company from <b>Application Development</b>, <b>IT Security</b>, <b>Application Support</b> 
+					and <b>Database's</b>. I work on any important projects EirGrid has for me to do across all deparments.</h3>
   <p>
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=DylanNelson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img align ="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanNelson99&show_icons=true&theme=default&locale=en&layout=compact" alt="Dylan Nelson" />
