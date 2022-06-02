@@ -10,7 +10,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylannelson99" alt="dylannelson99" /></a> </p> -->
 
-- 🔭 I’m currently working on [Building Web Application](https://github.com/ITTallghtComputing/project-DylanNelson99)
+- 🔭 I’m currently working on [Building Web Application]
 
 - 🌱 I’m currently learning **C# / C++ / Android**
 
