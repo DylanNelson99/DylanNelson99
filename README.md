@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylannelson99&label=Profile%20views&color=0e75b6&style=flat" alt="dylannelson99" /> </p>
 <h1 align="center">Hi 👋, I'm Dylan Nelson</h1>
-<h3 align="center">Hi my name is Dylan Nelson, I am currently an IT Graduate working in EirGrid. At EirGrid, we develop and operate the national electricity grid, so that everyone has power when and where they need it.</h3>
+<h3 align="center">Hi my name is Dylan Nelson, I am currently an Graduate IT Project Manager working in EirGrid. At EirGrid, we develop and operate the national electricity grid, so that everyone has power when and where they need it.</h3>
 <h3 align="center">We are responsible for a safe, secure and reliable supply of electricity: now, and in the future. To do this, we forecast when and where electricity is needed across Ireland: hour-to-hour, day-to-day, and year-to-year. We work to ensure there is enough electricity for industry to prosper, and for employment to grow.</h3>
   <h3 align="center">As a graduate I work with multiple teams in the company from <b>Application Development</b>, <b>IT Security</b>, <b>Application Support</b> and <b>Database's</b>. I work on any important projects EirGrid has for me to do across all deparments.</h3>
   <p>
