@@ -10,13 +10,13 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylannelson99" alt="dylannelson99" /></a> </p> -->
 
-- 🔭 I’m currently working on [Building Web Application]
+- 🔭 I’m currently working on an iPhone rollout across our Dublin and Belfast office's.
 
-- 🌱 I’m currently learning **C# / C++ / Android**
+- 🌱 I’m currently studying for my **PRINCE2 Foundation** exam.
 
 - 👨‍💻 All of my projects are available at [My Repo's](https://github.com/DylanNelson99?tab=repositories)
 
-- 💬 Ask me about **Android Development / Web Development**
+- 💬 Ask me about **IT Project Management / Web Development**
 
 - 📫 How to reach me **dylannelson919@gmail.com**
 
