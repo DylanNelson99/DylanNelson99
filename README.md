@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on an iPhone rollout across our Dublin and Belfast office's.
 
-- 🌱 I’m currently studying for my **PRINCE2 Foundation** exam.
+- 🌱 I am studying for my **PRINCE2 Foundation** exam.
 
 - 👨‍💻 All of my projects are available at [My Repo's](https://github.com/DylanNelson99?tab=repositories)
 
