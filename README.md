@@ -10,7 +10,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylannelson99" alt="dylannelson99" /></a> </p> -->
 
-- 🔭 I’m currently working on an iPhone rollout across our Dublin and Belfast office's.
+- 🔭 I’m currently managing a 'Mobile Phone Migration' across our Dublin and Belfast office's.
 
 - 🌱 I am studying for my **PRINCE2 Foundation** exam.
 
